@@ -7,7 +7,7 @@ This will plugin will do nothing, it will just forward the message down the chai
 ## Usage
 
 ```
-SOURCE_PLUGINS=(
-    pp/process/cat
+PROCESS_PLUGINS=(
+    ghcr.io/photo-channel/plugin-process-cat:master
 )
 ```
